@@ -1,0 +1,8 @@
+venv/
+dataset/
+dataset2/
+confusion_matrix_resnet18.png
+emotionrecognition.ipynb
+face_multitask_pipeline.ipynb
+training_history_resnet18.png
+model/
